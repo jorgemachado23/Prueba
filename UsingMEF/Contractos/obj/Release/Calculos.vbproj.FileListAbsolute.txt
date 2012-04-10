@@ -1,0 +1,10 @@
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\bin\Release\Contrato.Calculos.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\bin\Release\Contrato.Calculos.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\bin\Release\Contrato.Calculos.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\Contrato.Calculos.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\Contrato.Calculos.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\Contrato.Calculos.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\Contractos\obj\Release\Contrato.Calculos.pdb

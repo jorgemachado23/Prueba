@@ -1,0 +1,10 @@
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\bin\Debug\Interfaces.dll
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\bin\Debug\Interfaces.pdb
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\bin\Debug\Interfaces.xml
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\Interfaces.Resources.resources
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\GenerateResource.read.1.tlog
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\GenerateResource.write.1.tlog
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\Interfaces.dll
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\Interfaces.xml
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Interfaces\obj\Debug\Interfaces.pdb

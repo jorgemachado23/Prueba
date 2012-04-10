@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/d:My Project/f:Application.myapp" caret="0" fromTop="0" />
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/d:My Project/f:AssemblyInfo.vb" caret="0" fromTop="0" />
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/f:Module1.vb" caret="311" fromTop="8" />
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/f:Program.vb" caret="429" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/f:Program.vb" caret="2146" fromTop="10" />
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/f:Program.vb" caret="1723" fromTop="7" />
+      <File id="981FA8AE-0F3F-41E8-AD75-C513784938C3/f:Program.vb" caret="1281" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

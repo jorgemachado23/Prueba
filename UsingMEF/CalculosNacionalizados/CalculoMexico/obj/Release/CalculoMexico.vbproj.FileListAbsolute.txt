@@ -1,0 +1,13 @@
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\CalculoMexico.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\CalculoMexico.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\CalculoMexico.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\CalculoMexico.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\CalculoMexico.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\CalculoMexico.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\obj\Release\CalculoMexico.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\Contrato.Calculos.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\Contrato.Calculos.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoMexico\bin\Release\Contrato.Calculos.xml

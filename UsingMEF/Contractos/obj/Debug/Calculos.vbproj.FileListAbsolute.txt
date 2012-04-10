@@ -1,0 +1,10 @@
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\bin\Debug\Contracto.Calculos.dll
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\bin\Debug\Contracto.Calculos.pdb
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\bin\Debug\Contracto.Calculos.xml
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\ResolveAssemblyReference.cache
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\Contracto.Calculos.Resources.resources
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\GenerateResource.read.1.tlog
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\GenerateResource.write.1.tlog
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\Contracto.Calculos.dll
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\Contracto.Calculos.xml
+C:\ArchivosPersonales\GIT\Proyectos de pruebas\PruebasMEF\ConsoleApplication1\Contractos\obj\Debug\Contracto.Calculos.pdb

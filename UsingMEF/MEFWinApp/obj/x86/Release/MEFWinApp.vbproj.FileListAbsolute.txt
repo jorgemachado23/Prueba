@@ -1,0 +1,15 @@
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\MEFWinApp.exe.config
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\MEFWinApp.exe
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\MEFWinApp.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\MEFWinApp.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\Contracto.Calculos.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\Contracto.Calculos.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\bin\Release\Contracto.Calculos.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\MEFWinApp.Form1.resources
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\MEFWinApp.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\MEFWinApp.exe
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\MEFWinApp.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\MEFWinApp\obj\x86\Release\MEFWinApp.pdb

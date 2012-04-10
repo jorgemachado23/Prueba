@@ -1,0 +1,13 @@
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\CalculoRusia.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\CalculoRusia.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\CalculoRusia.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\Contracto.Calculos.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\Contracto.Calculos.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\bin\Release\Contracto.Calculos.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\CalculoRusia.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\CalculoRusia.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\CalculoRusia.xml
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\UsingMEF\UsingMEF\CalculosNacionalizados\CalculoRusia\obj\Release\CalculoRusia.pdb
